@@ -75,7 +75,7 @@ Hardware: Trained on GPU runtime (e.g., Google Colab).
 
 📊 Results
 Classification Models
-Model            	Accuracy	  F1-Score	  AUC-ROC	  Cohen’s Kappa	  PR-AUC
+Model            |	Accuracy	|  F1-Score	|  AUC-ROC	|  Cohen’s Kappa	|  PR-AUC
 EfficientNetV2B0  12.12%	    0.0420   	  0.5090  	-0.0030	        0.1392	
   MobileNetV2     36.36%	    0.3587	    0.7771	   0.2726	        0.3845	
 XceptionNet       25.51%	    0.2464	    0.6946	   0.1486	        0.2612	
